@@ -1,0 +1,16 @@
+@CHARSET "EUC-KR";
+
+.tableform{
+	width:400px;
+	border: 1px solid blue;
+	margin:50px;
+	padding:20px;
+}
+
+
+.error{
+	font-size:small;
+	color:red;
+	margin-left:10px;
+	
+}
